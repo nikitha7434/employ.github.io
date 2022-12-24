@@ -1,0 +1,53 @@
+*{
+    font-size: 20px;
+}
+body{
+    background-color: rgb(3, 1, 19);
+}
+#signup{
+    width: 1728px;
+    height: 1117px;
+    background-color: rgb(3, 1, 19);
+    border: 3px solid rgb(12, 34, 230);
+}
+.pag1{
+    margin:20px;
+}
+#prof{
+    padding: 5px;
+    margin: 20px;
+    background-color:  rgb(3, 1, 19);
+    padding: 10px 15px;
+    color: #fff;
+    border: 1px solid white;
+}
+#newuser{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 30px;
+}
+input{
+    background-color: rgb(3, 1, 19);
+    color: #fff;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+li{
+   list-style-position: inside;
+    padding: 10px 3px ;
+    color:#fff;
+    margin: 10px;
+    width: 500px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+
+ span{
+     padding: 20px;
+ }
+
+
